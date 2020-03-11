@@ -1,2 +1,2 @@
-# -soda-how-long-until
+# soda-howLongUtil
 A simple Time calculator

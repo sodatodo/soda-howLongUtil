@@ -1,0 +1,30 @@
+{
+  "name": "soda-howlongutil",
+  "version": "1.0.0",
+  "description": "A simple Time calculator",
+  "main": "dist/how-long-till.js",
+  "scripts": {
+    "test": "test",
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sodatodo/soda-howLongUtil.git"
+  },
+  "keywords": [
+    "npm",
+    "test"
+  ],
+  "author": "soda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sodatodo/soda-howLongUtil/issues"
+  },
+  "homepage": "https://github.com/sodatodo/soda-howLongUtil#readme",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^11.0.2",
+    "@rollup/plugin-node-resolve": "^7.1.1",
+    "ms": "^2.1.2",
+    "rollup": "^2.0.3"
+  }
+}
